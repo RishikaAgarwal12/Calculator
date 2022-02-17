@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+.app {
+  display: flex;
+  box-shadow: 5px 10px 15px black;
+  justify-content: space-around;
+  background-color: rgb(58, 56, 56);
+  width: 50%;
+  border-radius: 16px;
+  margin: 10%;
+  margin-left: 25% ;
+  border-color: black;
+  border-style: solid;
+  flex-wrap: wrap;
+}
+.header {
+  text-align: center;
+  color: rgb(236, 71, 126);
+  margin-bottom: 60px;
+  font-size: 50px;
+}

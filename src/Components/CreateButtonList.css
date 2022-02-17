@@ -1,0 +1,27 @@
+.button-style{
+    background: black;
+    border: 1px solid rgba(0,0,0,0.05);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    font-size: 40px;
+    color: white;
+    border-radius: 16px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 2px;
+    
+}
+.button-style:hover{
+    color: palevioletred;
+    cursor: pointer;
+}
+
+.button{
+   display: flex;
+   justify-content: center;
+   
+   
+}
+ 

@@ -1,0 +1,14 @@
+.input-output-container {
+  align-self: center;
+  margin: 12px;
+  border: black;
+}
+.input-line{
+  display: block;
+  background: white;
+  text-align: left;
+  border-style: solid;
+  margin-bottom: 30px;
+}
+
+    
